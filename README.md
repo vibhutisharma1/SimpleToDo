@@ -32,7 +32,7 @@ GIF created with [Kap](https://getkap.co/).
 
 ## Notes
 
-I encountered a challenge in building the bonus because I had constructed the graphics incorrectly so the ids were not properly able to connect with the app.
+I encountered a challenge in building the bonus because I had constructed the graphics incorrectly so the ids were not properly able to connect with the objects.
 I overcame this by deleting the button and plain text and adding them again and ensuring that I named them correctly this time. 
 
 The videos and notes were helpful in understanding the purpose of some methods as well as justification on all the code. 
